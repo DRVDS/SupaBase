@@ -1,0 +1,9 @@
+node_modules
+.gitignore
+.gitlab-ci.yml
+.sass-lint.yml
+package-lock.json
+package.json
+.next
+.code
+.github
